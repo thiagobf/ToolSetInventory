@@ -1,0 +1,1 @@
+INSERT INTO "Provider"(Name,Code,Address,Country,Phone) Values('Tony Starck','TS000001','Av. Rio Grande do Sul, 1000, Caraguatatuba, SP','Brasil','19 98136-1712');
