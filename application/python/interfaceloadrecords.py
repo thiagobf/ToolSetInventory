@@ -1,6 +1,6 @@
 import sqlite3
 
-DB_NAME = "C:\\Users\\Thiago Fernandes\\development\\ToolSetInventory\\database\\sqlitedb\\toolsetinventory.db"
+DB_NAME = r".\database\sqlitedb\toolsetinventory.db"
 
 
 def loadTools(brand, code, name, description, price):
