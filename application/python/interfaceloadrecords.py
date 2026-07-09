@@ -54,11 +54,9 @@ def LoadFile():
             Brand = Record[0].upper()
             Name = Record[1]
             Description = Record[2]
+            price = float(Record[3].replace(",","."))
+            loadTools(Brand, generate_tool_numcode(generate_tool_code(get_brand_code(Brand), Name), 1), Name, Description, price)
 
-        print("Brand: ", Brand)
-        print("Name: ", Name)
-        print("Code: ", generate_tool_numcode(generate_tool_code(get_brand_code(Brand), Name), 1))
-        print("Description: ", Description)
 
 def loadTools(brand, code, name, description, price):
     conn = sqlite3.connect(DB_NAME)
