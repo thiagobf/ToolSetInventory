@@ -1,0 +1,827 @@
+[2026-08-10 19:52:56] Loading records from file
+[2026-08-10 19:52:56] Loading tool record into database
+[2026-08-10 19:52:56] Tool record loaded: FERRARI, FER-00001, "Moto Esmeril 6""", "Esmeril 6"" modelo ME-6, 127/220 Volts, Peso 6.0 Kg", 215.0
+[2026-08-10 19:52:56] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: TRAMONTINA, TRA-00001, Alicate de bico laranja, Alicate de bico linha Tramontina-Pro Modelo 44006/006, 1000V, 67.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DEXTER, DEX-00001,  Alicate Desencapador, Alicate desencapador de fio, Modelo DB06A1-18, 1000V, IEC 60900, 234.89
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: SPANTA, SPA-00001, " Chave Philips 3/16"" x 1.5""", Chave Philips cabo laranja, 16.51
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: TRAMONTINA, TRA-00002, "Chave Philips 1/4x5"" - 6x125mm", Chave Philips linha Tramontina-Pro Modelo 44110/031 Vanadium ponta imantada, 14.99
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MTX, MTX-00001, "Chave Philips 1/4x4"" - 6x100mm",  Chave Philips Chrome Vanadium com ponta imantada, 15.11
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MTX, MTX-00002, "Chave de Fenda 1/4x4"" - 6x100mm",  Chave de Fenda Chrome Vanadium com ponta imantada, 13.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: TRAMONTINA, TRA-00003, "Chave de Fenda 3/16x4"" - 5x100mm",  Chave de Fenda linha Tramontina-Pro Modelo 44110/021 Vanadium ponta imantada, 17.77
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00002, Chave Combinada com Catraca 11 mm,  Chave Combinada com Catraca 11 mm Chrome Vanadium, 31.08
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00003, "Alicate Corte Diagonal 6""", " Alicate Corte Diagonal 6"" 1000V", 39.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: TRAMONTINA, TRA-00004, "Alicate de Pressão Mordente Reto 10""", "Alicate de Pressão Mordente Reto 10"" 44013/110 Tramontina-Pro", 84.55
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: TRAMONTINA, TRA-00005, Chave Inglesa 14/15 mm, Chave Inglesa Tramontina 14/15 mm, 53.63
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00004, Chave de fenda catraca magnética, Chave de fenda catraca magnética Positivo e Negativo Antiderrapante Ferramenta manual, 50.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00005, Estilete corta fio, Estilete corta fio, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: WESTERN, WES-00002, "Paquímetro Digital 150mm - 6""", "Paquímetro Digital 150mm - 6"", Linha Profissional Pro", 54.99
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00006, Jogo de Chaves Allen Hexagonais, Jogo de Chaves Allen Hexagonais Longas 9 Peças 1,5 a 10mm Aço Cromo Vanadio Alta, 75.23
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00007, Chaves Allen Hexagonais 6mm, Chaves Allen Hexagonais 6mm, 4.24
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DEXTER, DEX-00003, Martelo de Unha 27mm, Martelo de Unha 27mm, 24.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DEXTER, DEX-00004, Espátula cabo de madeira, Espátula cabo de madeira, 8.92
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DEXTER, DEX-00005, Formão cabo de borracha, Formão cabo de borracha, 46.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: STAMACO, STA-00001, Jogo de chaves torx T9 - T40, Jogo de chaves torx T9 - T40, 24.99
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00008, Jogo de Bits 36 peças, Jogo de Bits Impact Control 36 Peças 2608522365 Bosch, 346.4
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DREMEL, DRE-00001, kit para lixar micro-retífica, kit para lixar micro-retífica Dremel, 72.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00009, Óculos de segurança, Óculos de segurança, 3.19
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: DANNY, DAN-00003, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas MaxiGrip PRO, 10.52
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00010, Nível pequeno, Nível pequeno, 17.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: STARRET, STA-00001, Serra para tico-tico, Serra para tico-tico Starret BU418, 16.82
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: IRWIN, IRW-00001, Lápis de Pedreiro, Lápis de Pedreiro Médio Strait-Line, 6.28
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: WESTERN, WES-00006, Calibrador de Pneus, Calibrador de Pneus 150 PSI, Linha Auto, 28.14
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00011, Jogo de Serra Copo p/ Madeira, Jogo de Serra Copo p/ Madeira, 20.47
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00012, Esmeril para furadeira, Esmeril para furadeira Bosch 17081338, 44.56
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00013, Escova de Aço para furadeira, Escova de Aço para furadeira, 12.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00014, Ponta Abrasiva Rosa p/ Furadeira, Ponta Abrasiva Rosa p/ Furadeira, 10.05
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00001, Broca 4mm para concreto, Broca Widea Para Concreto 4mm D-03894, 7.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00002, Broca 6mm para concreto, Broca Widea Para Concreto 6mm D-03894, 7.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00003, Broca 8mm para concreto, Broca Widea Para Concreto 8mm D-03894, 7.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00004, Broca 10mm para concreto, Broca Widea Para Concreto 10mm D-03894, 7.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00005, Broca Madeira 8mm, Broca Madeira 8mm (2x), 9.41
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00006, Broca Metal 8mm, Broca Metal 8mm, 15.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00015, Broca Concreto 8mm, Broca Concreto 8mm, 10.44
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00007, Broca Concreto 10mm, Broca Concreto 10mm, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00016, Broca Concreto 3mm, Broca Concreto 3mm, 6.84
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: MAKITA, MAK-00008, Broca madeira 6mm, Broca madeira 6mm (2), 9.7
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00017, Broca Concreto 5mm, Broca Concreto 5mm (2), 3.79
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00018, Broca Concreto 5mm, Broca Concreto 5mm, 3.79
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00019, Broca de Vídea 6mm, Broca de Vídea 6mm (2), 38.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00020, Broca de Vídea 6mm, Broca de Vídea 6mm, 38.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00021, Broca de Madeira 5mm, Broca de Madeira 5mm (2), 38.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00022, Broca de Concreto 4mm, Broca de Concreto 4mm(2), 2.8
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00023, Broca Metal 5mm, Broca Metal 5mm, 2.8
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00024, Broca Metal 6mm, Broca Metal 6mm, 2.8
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00025, Broca de concreto 6mm longa, Broca de concreto 6mm longa, 46.73
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00026, Broca multiuso expert 6mm, Broca multiuso expert 6mm com carbeto de tungstênio, 35.09
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00027, Broca de concreto 3mm, Broca de concreto 3mm (2), 2.8
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00028, Broca de Madeira 10mm, Broca de Madeira 10mm, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00029, Broca de Madeira 8mm, Broca de Madeira 8mm, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00030, Broca de Madeira 6mm, Broca de Madeira 6mm, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00031, Broca de Madeira 5mm, Broca de Madeira 5mm(2), 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00032, Broca de Madeira 4mm, Broca de Madeira 4mm, 10.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00033, Broca Metal Duro 6mm, Broca Metal Duro 6mm, 348.11
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00034, Chave Mandril para Furadeira, Chave Mandril para Furadeira, 8.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: STANLEY, STA-00002, Caixa de Ferramentas 49.2 x 25,4 x 24,8 cm, "Caixa de Ferramentas Stanley Modelo 19"" Série 2000 19-013", 98.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: BOSCH, BOS-00035, Conjunto de Brocas/Bits Bosch X33, Conjunto de Brocas/Bits Bosch X33 33 peças brocas de Madeira/Concreto/Aço, 75.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: WESTERN, WES-00007, Colher de pedreiro, Colher de pedreiro, 18.9
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: STAMACO, STA-00002, Jogo de chaves fendas/philips, Jogo de chaves fendas/philips, 40.0
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00036, "Chave phillips 1/6"" x 2""", "Chave phillips 1/6"" x 2"" - 4mm x 50mm ", 13.59
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00037, "Chave Fenda 1/8"" x 2.5""", "Chave Fenda 1/8"" x 2.5"" - 3mm x 75mm", 10.12
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00038, Chave Allen Hexagonais 5mm, Chave Allen Hexagonais 5mm (6), 4.02
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00039, Chave Allen Formato Z 4mm, Chave Allen Formato Z 4mm (5), 4.01
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00040, "Chave Fenda 1/8"" x 1.4""", "Chave Fenda 1/8"" x 1.4"" - 3mm x 35mm", 8.49
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00041, "Chave Fenda 1/12"" x 1.25""", "Chave Fenda 1/12"" x 1.25"" - 8mm x 31mm", 7.79
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:57] Tool record loaded: NONBRAND, NON-00042, "Chave Philips 1/8"" x 3""", "Chave Philips 1/8"" x 3"" - 3mm x 75mm", 6.1
+[2026-08-10 19:52:57] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: NONBRAND, NON-00043, "Chave Philips 1/8"" x 6""", "Chave Philips 1/8"" x 6"" - 3mm x 150mm", 3.5
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: DREMEL, DRE-00003, Micro-retífica, Micro-retífica Dremel 4000 Professional 110 Volts F0134000GB, 580.99
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: BOSCH, BOS-00044, Bosch Furadeira Parafusadeira, Bosch Furadeira Parafusadeira GSR 1000 Smart, Com Acessórios, 12 Volts, 399.0
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: WESTERN, WES-00008, Nível com 3 Bolhas 50 cm, Nível com 3 Bolhas 50 cm, Western, HT-20, Amarelo, 30.0
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: TRAMONTINA, TRA-00006, Colher Pedreiro 08, Colher Pedreiro 08, 26.1
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: GALO, GAL-00001, Desempenadeira 18x30 Galo,  Desempenadeira PVC 18x30, 24.6
+[2026-08-10 19:52:58] Loading tool record into database
+[2026-08-10 19:52:58] Tool record loaded: VOLK, VOL-00003, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas Volk do Brasil, 8.0
+[2026-08-10 19:52:58] Loading records completed
+[2026-08-10 20:46:07] Loading records from file
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: FERRARI, FER-00001, "Moto Esmeril 6""", "Esmeril 6"" modelo ME-6, 127/220 Volts, Peso 6.0 Kg", 215.0
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: TRAMONTINA, TRA-00001, Alicate de bico laranja, Alicate de bico linha Tramontina-Pro Modelo 44006/006, 1000V, 67.9
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: DEXTER, DEX-00001,  Alicate Desencapador, Alicate desencapador de fio, Modelo DB06A1-18, 1000V, IEC 60900, 234.89
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: SPANTA, SPA-00001, " Chave Philips 3/16"" x 1.5""", Chave Philips cabo laranja, 16.51
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: TRAMONTINA, TRA-00002, "Chave Philips 1/4x5"" - 6x125mm", Chave Philips linha Tramontina-Pro Modelo 44110/031 Vanadium ponta imantada, 14.99
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: MTX, MTX-00001, "Chave Philips 1/4x4"" - 6x100mm",  Chave Philips Chrome Vanadium com ponta imantada, 15.11
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: MTX, MTX-00002, "Chave de Fenda 1/4x4"" - 6x100mm",  Chave de Fenda Chrome Vanadium com ponta imantada, 13.9
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: TRAMONTINA, TRA-00003, "Chave de Fenda 3/16x4"" - 5x100mm",  Chave de Fenda linha Tramontina-Pro Modelo 44110/021 Vanadium ponta imantada, 17.77
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00001, Chave Combinada com Catraca 11 mm,  Chave Combinada com Catraca 11 mm Chrome Vanadium, 31.08
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00002, "Alicate Corte Diagonal 6""", " Alicate Corte Diagonal 6"" 1000V", 39.9
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: TRAMONTINA, TRA-00004, "Alicate de Pressão Mordente Reto 10""", "Alicate de Pressão Mordente Reto 10"" 44013/110 Tramontina-Pro", 84.55
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: TRAMONTINA, TRA-00005, Chave Inglesa 14/15 mm, Chave Inglesa Tramontina 14/15 mm, 53.63
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00003, Chave de fenda catraca magnética, Chave de fenda catraca magnética Positivo e Negativo Antiderrapante Ferramenta manual, 50.0
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00004, Estilete corta fio, Estilete corta fio, 10.0
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: WESTERN, WES-00001, "Paquímetro Digital 150mm - 6""", "Paquímetro Digital 150mm - 6"", Linha Profissional Pro", 54.99
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00005, Jogo de Chaves Allen Hexagonais, Jogo de Chaves Allen Hexagonais Longas 9 Peças 1,5 a 10mm Aço Cromo Vanadio Alta, 75.23
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: NONBRAND, NON-00006, Chaves Allen Hexagonais 6mm, Chaves Allen Hexagonais 6mm, 4.24
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:07] Tool record loaded: DEXTER, DEX-00002, Martelo de Unha 27mm, Martelo de Unha 27mm, 24.9
+[2026-08-10 20:46:07] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: DEXTER, DEX-00003, Espátula cabo de madeira, Espátula cabo de madeira, 8.92
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: DEXTER, DEX-00004, Formão cabo de borracha, Formão cabo de borracha, 46.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: STAMACO, STA-00001, Jogo de chaves torx T9 - T40, Jogo de chaves torx T9 - T40, 24.99
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00007, Jogo de Bits 36 peças, Jogo de Bits Impact Control 36 Peças 2608522365 Bosch, 346.4
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: DREMEL, DRE-00001, kit para lixar micro-retífica, kit para lixar micro-retífica Dremel, 72.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00008, Óculos de segurança, Óculos de segurança, 3.19
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: DANNY, DAN-00001, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas MaxiGrip PRO, 10.52
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00009, Nível pequeno, Nível pequeno, 17.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: STARRET, STA-00001, Serra para tico-tico, Serra para tico-tico Starret BU418, 16.82
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: IRWIN, IRW-00001, Lápis de Pedreiro, Lápis de Pedreiro Médio Strait-Line, 6.28
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: WESTERN, WES-00002, Calibrador de Pneus, Calibrador de Pneus 150 PSI, Linha Auto, 28.14
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00010, Jogo de Serra Copo p/ Madeira, Jogo de Serra Copo p/ Madeira, 20.47
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00011, Esmeril para furadeira, Esmeril para furadeira Bosch 17081338, 44.56
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00012, Escova de Aço para furadeira, Escova de Aço para furadeira, 12.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00013, Ponta Abrasiva Rosa p/ Furadeira, Ponta Abrasiva Rosa p/ Furadeira, 10.05
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00001, Broca 4mm para concreto, Broca Widea Para Concreto 4mm D-03894, 7.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00002, Broca 6mm para concreto, Broca Widea Para Concreto 6mm D-03894, 7.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00003, Broca 8mm para concreto, Broca Widea Para Concreto 8mm D-03894, 7.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00004, Broca 10mm para concreto, Broca Widea Para Concreto 10mm D-03894, 7.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00005, Broca Madeira 8mm, Broca Madeira 8mm (2x), 9.41
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00006, Broca Metal 8mm, Broca Metal 8mm, 15.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00014, Broca Concreto 8mm, Broca Concreto 8mm, 10.44
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00007, Broca Concreto 10mm, Broca Concreto 10mm, 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00015, Broca Concreto 3mm, Broca Concreto 3mm, 6.84
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: MAKITA, MAK-00008, Broca madeira 6mm, Broca madeira 6mm (2), 9.7
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00016, Broca Concreto 5mm, Broca Concreto 5mm (2), 3.79
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00017, Broca Concreto 5mm, Broca Concreto 5mm, 3.79
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00018, Broca de Vídea 6mm, Broca de Vídea 6mm (2), 38.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00019, Broca de Vídea 6mm, Broca de Vídea 6mm, 38.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00020, Broca de Madeira 5mm, Broca de Madeira 5mm (2), 38.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00021, Broca de Concreto 4mm, Broca de Concreto 4mm(2), 2.8
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00022, Broca Metal 5mm, Broca Metal 5mm, 2.8
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00023, Broca Metal 6mm, Broca Metal 6mm, 2.8
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00024, Broca de concreto 6mm longa, Broca de concreto 6mm longa, 46.73
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00025, Broca multiuso expert 6mm, Broca multiuso expert 6mm com carbeto de tungstênio, 35.09
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00026, Broca de concreto 3mm, Broca de concreto 3mm (2), 2.8
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00027, Broca de Madeira 10mm, Broca de Madeira 10mm, 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00028, Broca de Madeira 8mm, Broca de Madeira 8mm, 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00029, Broca de Madeira 6mm, Broca de Madeira 6mm, 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00030, Broca de Madeira 5mm, Broca de Madeira 5mm(2), 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00031, Broca de Madeira 4mm, Broca de Madeira 4mm, 10.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00032, Broca Metal Duro 6mm, Broca Metal Duro 6mm, 348.11
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00033, Chave Mandril para Furadeira, Chave Mandril para Furadeira, 8.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: STANLEY, STA-00001, Caixa de Ferramentas 49.2 x 25,4 x 24,8 cm, "Caixa de Ferramentas Stanley Modelo 19"" Série 2000 19-013", 98.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00034, Conjunto de Brocas/Bits Bosch X33, Conjunto de Brocas/Bits Bosch X33 33 peças brocas de Madeira/Concreto/Aço, 75.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: WESTERN, WES-00003, Colher de pedreiro, Colher de pedreiro, 18.9
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: STAMACO, STA-00002, Jogo de chaves fendas/philips, Jogo de chaves fendas/philips, 40.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00035, "Chave phillips 1/6"" x 2""", "Chave phillips 1/6"" x 2"" - 4mm x 50mm ", 13.59
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00036, "Chave Fenda 1/8"" x 2.5""", "Chave Fenda 1/8"" x 2.5"" - 3mm x 75mm", 10.12
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00037, Chave Allen Hexagonais 5mm, Chave Allen Hexagonais 5mm (6), 4.02
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00038, Chave Allen Formato Z 4mm, Chave Allen Formato Z 4mm (5), 4.01
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00039, "Chave Fenda 1/8"" x 1.4""", "Chave Fenda 1/8"" x 1.4"" - 3mm x 35mm", 8.49
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00040, "Chave Fenda 1/12"" x 1.25""", "Chave Fenda 1/12"" x 1.25"" - 8mm x 31mm", 7.79
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00041, "Chave Philips 1/8"" x 3""", "Chave Philips 1/8"" x 3"" - 3mm x 75mm", 6.1
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: NONBRAND, NON-00042, "Chave Philips 1/8"" x 6""", "Chave Philips 1/8"" x 6"" - 3mm x 150mm", 3.5
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: DREMEL, DRE-00002, Micro-retífica, Micro-retífica Dremel 4000 Professional 110 Volts F0134000GB, 580.99
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: BOSCH, BOS-00043, Bosch Furadeira Parafusadeira, Bosch Furadeira Parafusadeira GSR 1000 Smart, Com Acessórios, 12 Volts, 399.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: WESTERN, WES-00004, Nível com 3 Bolhas 50 cm, Nível com 3 Bolhas 50 cm, Western, HT-20, Amarelo, 30.0
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: TRAMONTINA, TRA-00006, Colher Pedreiro 08, Colher Pedreiro 08, 26.1
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: GALO, GAL-00002, Desempenadeira 18x30 Galo,  Desempenadeira PVC 18x30, 24.6
+[2026-08-10 20:46:08] Loading tool record into database
+[2026-08-10 20:46:08] Tool record loaded: VOLK, VOL-00001, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas Volk do Brasil, 8.0
+[2026-08-10 20:46:08] Loading records completed
+[2026-08-10 20:46:08] Loading provider records from file
+[2026-08-10 20:47:06] Loading records from file
+[2026-08-10 20:47:06] Loading tool record into database
+[2026-08-10 20:47:06] Tool record loaded: FERRARI, FER-00001, "Moto Esmeril 6""", "Esmeril 6"" modelo ME-6, 127/220 Volts, Peso 6.0 Kg", 215.0
+[2026-08-10 20:47:06] Loading tool record into database
+[2026-08-10 20:47:06] Tool record loaded: TRAMONTINA, TRA-00001, Alicate de bico laranja, Alicate de bico linha Tramontina-Pro Modelo 44006/006, 1000V, 67.9
+[2026-08-10 20:47:06] Loading tool record into database
+[2026-08-10 20:47:06] Tool record loaded: DEXTER, DEX-00001,  Alicate Desencapador, Alicate desencapador de fio, Modelo DB06A1-18, 1000V, IEC 60900, 234.89
+[2026-08-10 20:47:06] Loading tool record into database
+[2026-08-10 20:47:06] Tool record loaded: SPANTA, SPA-00001, " Chave Philips 3/16"" x 1.5""", Chave Philips cabo laranja, 16.51
+[2026-08-10 20:47:06] Loading tool record into database
+[2026-08-10 20:47:06] Tool record loaded: TRAMONTINA, TRA-00002, "Chave Philips 1/4x5"" - 6x125mm", Chave Philips linha Tramontina-Pro Modelo 44110/031 Vanadium ponta imantada, 14.99
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MTX, MTX-00001, "Chave Philips 1/4x4"" - 6x100mm",  Chave Philips Chrome Vanadium com ponta imantada, 15.11
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MTX, MTX-00002, "Chave de Fenda 1/4x4"" - 6x100mm",  Chave de Fenda Chrome Vanadium com ponta imantada, 13.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: TRAMONTINA, TRA-00003, "Chave de Fenda 3/16x4"" - 5x100mm",  Chave de Fenda linha Tramontina-Pro Modelo 44110/021 Vanadium ponta imantada, 17.77
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00001, Chave Combinada com Catraca 11 mm,  Chave Combinada com Catraca 11 mm Chrome Vanadium, 31.08
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00002, "Alicate Corte Diagonal 6""", " Alicate Corte Diagonal 6"" 1000V", 39.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: TRAMONTINA, TRA-00004, "Alicate de Pressão Mordente Reto 10""", "Alicate de Pressão Mordente Reto 10"" 44013/110 Tramontina-Pro", 84.55
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: TRAMONTINA, TRA-00005, Chave Inglesa 14/15 mm, Chave Inglesa Tramontina 14/15 mm, 53.63
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00003, Chave de fenda catraca magnética, Chave de fenda catraca magnética Positivo e Negativo Antiderrapante Ferramenta manual, 50.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00004, Estilete corta fio, Estilete corta fio, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: WESTERN, WES-00001, "Paquímetro Digital 150mm - 6""", "Paquímetro Digital 150mm - 6"", Linha Profissional Pro", 54.99
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00005, Jogo de Chaves Allen Hexagonais, Jogo de Chaves Allen Hexagonais Longas 9 Peças 1,5 a 10mm Aço Cromo Vanadio Alta, 75.23
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00006, Chaves Allen Hexagonais 6mm, Chaves Allen Hexagonais 6mm, 4.24
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DEXTER, DEX-00002, Martelo de Unha 27mm, Martelo de Unha 27mm, 24.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DEXTER, DEX-00003, Espátula cabo de madeira, Espátula cabo de madeira, 8.92
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DEXTER, DEX-00004, Formão cabo de borracha, Formão cabo de borracha, 46.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: STAMACO, STA-00002, Jogo de chaves torx T9 - T40, Jogo de chaves torx T9 - T40, 24.99
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00006, Jogo de Bits 36 peças, Jogo de Bits Impact Control 36 Peças 2608522365 Bosch, 346.4
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DREMEL, DRE-00001, kit para lixar micro-retífica, kit para lixar micro-retífica Dremel, 72.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00007, Óculos de segurança, Óculos de segurança, 3.19
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DANNY, DAN-00001, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas MaxiGrip PRO, 10.52
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00008, Nível pequeno, Nível pequeno, 17.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: STARRET, STA-00001, Serra para tico-tico, Serra para tico-tico Starret BU418, 16.82
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: IRWIN, IRW-00001, Lápis de Pedreiro, Lápis de Pedreiro Médio Strait-Line, 6.28
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: WESTERN, WES-00002, Calibrador de Pneus, Calibrador de Pneus 150 PSI, Linha Auto, 28.14
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00009, Jogo de Serra Copo p/ Madeira, Jogo de Serra Copo p/ Madeira, 20.47
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00007, Esmeril para furadeira, Esmeril para furadeira Bosch 17081338, 44.56
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00008, Escova de Aço para furadeira, Escova de Aço para furadeira, 12.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00010, Ponta Abrasiva Rosa p/ Furadeira, Ponta Abrasiva Rosa p/ Furadeira, 10.05
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00002, Broca 4mm para concreto, Broca Widea Para Concreto 4mm D-03894, 7.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00003, Broca 6mm para concreto, Broca Widea Para Concreto 6mm D-03894, 7.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00004, Broca 8mm para concreto, Broca Widea Para Concreto 8mm D-03894, 7.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00005, Broca 10mm para concreto, Broca Widea Para Concreto 10mm D-03894, 7.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00006, Broca Madeira 8mm, Broca Madeira 8mm (2x), 9.41
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00007, Broca Metal 8mm, Broca Metal 8mm, 15.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00011, Broca Concreto 8mm, Broca Concreto 8mm, 10.44
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00008, Broca Concreto 10mm, Broca Concreto 10mm, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00012, Broca Concreto 3mm, Broca Concreto 3mm, 6.84
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: MAKITA, MAK-00009, Broca madeira 6mm, Broca madeira 6mm (2), 9.7
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00009, Broca Concreto 5mm, Broca Concreto 5mm (2), 3.79
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00013, Broca Concreto 5mm, Broca Concreto 5mm, 3.79
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00014, Broca de Vídea 6mm, Broca de Vídea 6mm (2), 38.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00010, Broca de Vídea 6mm, Broca de Vídea 6mm, 38.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00015, Broca de Madeira 5mm, Broca de Madeira 5mm (2), 38.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00016, Broca de Concreto 4mm, Broca de Concreto 4mm(2), 2.8
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00017, Broca Metal 5mm, Broca Metal 5mm, 2.8
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00018, Broca Metal 6mm, Broca Metal 6mm, 2.8
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00019, Broca de concreto 6mm longa, Broca de concreto 6mm longa, 46.73
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00011, Broca multiuso expert 6mm, Broca multiuso expert 6mm com carbeto de tungstênio, 35.09
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00012, Broca de concreto 3mm, Broca de concreto 3mm (2), 2.8
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00020, Broca de Madeira 10mm, Broca de Madeira 10mm, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00021, Broca de Madeira 8mm, Broca de Madeira 8mm, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00022, Broca de Madeira 6mm, Broca de Madeira 6mm, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00023, Broca de Madeira 5mm, Broca de Madeira 5mm(2), 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00024, Broca de Madeira 4mm, Broca de Madeira 4mm, 10.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00025, Broca Metal Duro 6mm, Broca Metal Duro 6mm, 348.11
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00026, Chave Mandril para Furadeira, Chave Mandril para Furadeira, 8.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: STANLEY, STA-00002, Caixa de Ferramentas 49.2 x 25,4 x 24,8 cm, "Caixa de Ferramentas Stanley Modelo 19"" Série 2000 19-013", 98.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00013, Conjunto de Brocas/Bits Bosch X33, Conjunto de Brocas/Bits Bosch X33 33 peças brocas de Madeira/Concreto/Aço, 75.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: WESTERN, WES-00003, Colher de pedreiro, Colher de pedreiro, 18.9
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: STAMACO, STA-00003, Jogo de chaves fendas/philips, Jogo de chaves fendas/philips, 40.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00027, "Chave phillips 1/6"" x 2""", "Chave phillips 1/6"" x 2"" - 4mm x 50mm ", 13.59
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00028, "Chave Fenda 1/8"" x 2.5""", "Chave Fenda 1/8"" x 2.5"" - 3mm x 75mm", 10.12
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00029, Chave Allen Hexagonais 5mm, Chave Allen Hexagonais 5mm (6), 4.02
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00030, Chave Allen Formato Z 4mm, Chave Allen Formato Z 4mm (5), 4.01
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00031, "Chave Fenda 1/8"" x 1.4""", "Chave Fenda 1/8"" x 1.4"" - 3mm x 35mm", 8.49
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00032, "Chave Fenda 1/12"" x 1.25""", "Chave Fenda 1/12"" x 1.25"" - 8mm x 31mm", 7.79
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00033, "Chave Philips 1/8"" x 3""", "Chave Philips 1/8"" x 3"" - 3mm x 75mm", 6.1
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: NONBRAND, NON-00034, "Chave Philips 1/8"" x 6""", "Chave Philips 1/8"" x 6"" - 3mm x 150mm", 3.5
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: DREMEL, DRE-00002, Micro-retífica, Micro-retífica Dremel 4000 Professional 110 Volts F0134000GB, 580.99
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: BOSCH, BOS-00014, Bosch Furadeira Parafusadeira, Bosch Furadeira Parafusadeira GSR 1000 Smart, Com Acessórios, 12 Volts, 399.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: WESTERN, WES-00004, Nível com 3 Bolhas 50 cm, Nível com 3 Bolhas 50 cm, Western, HT-20, Amarelo, 30.0
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: TRAMONTINA, TRA-00015, Colher Pedreiro 08, Colher Pedreiro 08, 26.1
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: GALO, GAL-00001, Desempenadeira 18x30 Galo,  Desempenadeira PVC 18x30, 24.6
+[2026-08-10 20:47:07] Loading tool record into database
+[2026-08-10 20:47:07] Tool record loaded: VOLK, VOL-00001, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas Volk do Brasil, 8.0
+[2026-08-10 20:47:07] Loading records completed
+[2026-08-10 20:47:07] Loading provider records from file
+[2026-08-10 20:47:07] Loading provider record into database
+[2026-08-10 20:52:02] Loading records from file
+[2026-08-10 20:52:02] Loading tool record into database
+[2026-08-10 20:52:27] Loading records from file
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: FERRARI, FER-00001, "Moto Esmeril 6""", "Esmeril 6"" modelo ME-6, 127/220 Volts, Peso 6.0 Kg", 215.0
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: TRAMONTINA, TRA-00001, Alicate de bico laranja, Alicate de bico linha Tramontina-Pro Modelo 44006/006, 1000V, 67.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DEXTER, DEX-00001,  Alicate Desencapador, Alicate desencapador de fio, Modelo DB06A1-18, 1000V, IEC 60900, 234.89
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: SPANTA, SPA-00002, " Chave Philips 3/16"" x 1.5""", Chave Philips cabo laranja, 16.51
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: TRAMONTINA, TRA-00003, "Chave Philips 1/4x5"" - 6x125mm", Chave Philips linha Tramontina-Pro Modelo 44110/031 Vanadium ponta imantada, 14.99
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: MTX, MTX-00001, "Chave Philips 1/4x4"" - 6x100mm",  Chave Philips Chrome Vanadium com ponta imantada, 15.11
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: MTX, MTX-00002, "Chave de Fenda 1/4x4"" - 6x100mm",  Chave de Fenda Chrome Vanadium com ponta imantada, 13.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: TRAMONTINA, TRA-00004, "Chave de Fenda 3/16x4"" - 5x100mm",  Chave de Fenda linha Tramontina-Pro Modelo 44110/021 Vanadium ponta imantada, 17.77
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00001, Chave Combinada com Catraca 11 mm,  Chave Combinada com Catraca 11 mm Chrome Vanadium, 31.08
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00002, "Alicate Corte Diagonal 6""", " Alicate Corte Diagonal 6"" 1000V", 39.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: TRAMONTINA, TRA-00005, "Alicate de Pressão Mordente Reto 10""", "Alicate de Pressão Mordente Reto 10"" 44013/110 Tramontina-Pro", 84.55
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: TRAMONTINA, TRA-00006, Chave Inglesa 14/15 mm, Chave Inglesa Tramontina 14/15 mm, 53.63
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00003, Chave de fenda catraca magnética, Chave de fenda catraca magnética Positivo e Negativo Antiderrapante Ferramenta manual, 50.0
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00004, Estilete corta fio, Estilete corta fio, 10.0
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: WESTERN, WES-00001, "Paquímetro Digital 150mm - 6""", "Paquímetro Digital 150mm - 6"", Linha Profissional Pro", 54.99
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00005, Jogo de Chaves Allen Hexagonais, Jogo de Chaves Allen Hexagonais Longas 9 Peças 1,5 a 10mm Aço Cromo Vanadio Alta, 75.23
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00006, Chaves Allen Hexagonais 6mm, Chaves Allen Hexagonais 6mm, 4.24
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DEXTER, DEX-00002, Martelo de Unha 27mm, Martelo de Unha 27mm, 24.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DEXTER, DEX-00003, Espátula cabo de madeira, Espátula cabo de madeira, 8.92
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DEXTER, DEX-00004, Formão cabo de borracha, Formão cabo de borracha, 46.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: STAMACO, STA-00001, Jogo de chaves torx T9 - T40, Jogo de chaves torx T9 - T40, 24.99
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: BOSCH, BOS-00002, Jogo de Bits 36 peças, Jogo de Bits Impact Control 36 Peças 2608522365 Bosch, 346.4
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DREMEL, DRE-00001, kit para lixar micro-retífica, kit para lixar micro-retífica Dremel, 72.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00007, Óculos de segurança, Óculos de segurança, 3.19
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: DANNY, DAN-00003, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas MaxiGrip PRO, 10.52
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00008, Nível pequeno, Nível pequeno, 17.9
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: STARRET, STA-00001, Serra para tico-tico, Serra para tico-tico Starret BU418, 16.82
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: IRWIN, IRW-00007, Lápis de Pedreiro, Lápis de Pedreiro Médio Strait-Line, 6.28
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: WESTERN, WES-00002, Calibrador de Pneus, Calibrador de Pneus 150 PSI, Linha Auto, 28.14
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00009, Jogo de Serra Copo p/ Madeira, Jogo de Serra Copo p/ Madeira, 20.47
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: BOSCH, BOS-00003, Esmeril para furadeira, Esmeril para furadeira Bosch 17081338, 44.56
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: BOSCH, BOS-00004, Escova de Aço para furadeira, Escova de Aço para furadeira, 12.0
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:27] Tool record loaded: NONBRAND, NON-00010, Ponta Abrasiva Rosa p/ Furadeira, Ponta Abrasiva Rosa p/ Furadeira, 10.05
+[2026-08-10 20:52:27] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00005, Broca 4mm para concreto, Broca Widea Para Concreto 4mm D-03894, 7.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00006, Broca 6mm para concreto, Broca Widea Para Concreto 6mm D-03894, 7.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00007, Broca 8mm para concreto, Broca Widea Para Concreto 8mm D-03894, 7.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00008, Broca 10mm para concreto, Broca Widea Para Concreto 10mm D-03894, 7.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00009, Broca Madeira 8mm, Broca Madeira 8mm (2x), 9.41
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00010, Broca Metal 8mm, Broca Metal 8mm, 15.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00011, Broca Concreto 8mm, Broca Concreto 8mm, 10.44
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00011, Broca Concreto 10mm, Broca Concreto 10mm, 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00012, Broca Concreto 3mm, Broca Concreto 3mm, 6.84
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: MAKITA, MAK-00012, Broca madeira 6mm, Broca madeira 6mm (2), 9.7
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00013, Broca Concreto 5mm, Broca Concreto 5mm (2), 3.79
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00013, Broca Concreto 5mm, Broca Concreto 5mm, 3.79
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00014, Broca de Vídea 6mm, Broca de Vídea 6mm (2), 38.9
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00014, Broca de Vídea 6mm, Broca de Vídea 6mm, 38.9
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00015, Broca de Madeira 5mm, Broca de Madeira 5mm (2), 38.9
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00016, Broca de Concreto 4mm, Broca de Concreto 4mm(2), 2.8
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00017, Broca Metal 5mm, Broca Metal 5mm, 2.8
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00018, Broca Metal 6mm, Broca Metal 6mm, 2.8
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00019, Broca de concreto 6mm longa, Broca de concreto 6mm longa, 46.73
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00015, Broca multiuso expert 6mm, Broca multiuso expert 6mm com carbeto de tungstênio, 35.09
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00016, Broca de concreto 3mm, Broca de concreto 3mm (2), 2.8
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00020, Broca de Madeira 10mm, Broca de Madeira 10mm, 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00021, Broca de Madeira 8mm, Broca de Madeira 8mm, 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00022, Broca de Madeira 6mm, Broca de Madeira 6mm, 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00023, Broca de Madeira 5mm, Broca de Madeira 5mm(2), 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00024, Broca de Madeira 4mm, Broca de Madeira 4mm, 10.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00025, Broca Metal Duro 6mm, Broca Metal Duro 6mm, 348.11
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00026, Chave Mandril para Furadeira, Chave Mandril para Furadeira, 8.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: STANLEY, STA-00001, Caixa de Ferramentas 49.2 x 25,4 x 24,8 cm, "Caixa de Ferramentas Stanley Modelo 19"" Série 2000 19-013", 98.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00017, Conjunto de Brocas/Bits Bosch X33, Conjunto de Brocas/Bits Bosch X33 33 peças brocas de Madeira/Concreto/Aço, 75.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: WESTERN, WES-00003, Colher de pedreiro, Colher de pedreiro, 18.9
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: STAMACO, STA-00002, Jogo de chaves fendas/philips, Jogo de chaves fendas/philips, 40.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00027, "Chave phillips 1/6"" x 2""", "Chave phillips 1/6"" x 2"" - 4mm x 50mm ", 13.59
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00028, "Chave Fenda 1/8"" x 2.5""", "Chave Fenda 1/8"" x 2.5"" - 3mm x 75mm", 10.12
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00029, Chave Allen Hexagonais 5mm, Chave Allen Hexagonais 5mm (6), 4.02
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00030, Chave Allen Formato Z 4mm, Chave Allen Formato Z 4mm (5), 4.01
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00031, "Chave Fenda 1/8"" x 1.4""", "Chave Fenda 1/8"" x 1.4"" - 3mm x 35mm", 8.49
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00032, "Chave Fenda 1/12"" x 1.25""", "Chave Fenda 1/12"" x 1.25"" - 8mm x 31mm", 7.79
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00033, "Chave Philips 1/8"" x 3""", "Chave Philips 1/8"" x 3"" - 3mm x 75mm", 6.1
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: NONBRAND, NON-00034, "Chave Philips 1/8"" x 6""", "Chave Philips 1/8"" x 6"" - 3mm x 150mm", 3.5
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: DREMEL, DRE-00002, Micro-retífica, Micro-retífica Dremel 4000 Professional 110 Volts F0134000GB, 580.99
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: BOSCH, BOS-00018, Bosch Furadeira Parafusadeira, Bosch Furadeira Parafusadeira GSR 1000 Smart, Com Acessórios, 12 Volts, 399.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: WESTERN, WES-00004, Nível com 3 Bolhas 50 cm, Nível com 3 Bolhas 50 cm, Western, HT-20, Amarelo, 30.0
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: TRAMONTINA, TRA-00008, Colher Pedreiro 08, Colher Pedreiro 08, 26.1
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: GALO, GAL-00003, Desempenadeira 18x30 Galo,  Desempenadeira PVC 18x30, 24.6
+[2026-08-10 20:52:28] Loading tool record into database
+[2026-08-10 20:52:28] Tool record loaded: VOLK, VOL-00004, Luvas de Proteção emborrachadas, Luvas de Proteção emborrachadas Volk do Brasil, 8.0
+[2026-08-10 20:52:28] Loading records completed
+[2026-08-10 20:52:28] Loading provider records from file
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: José de Salles, Av. São Paulo 1250, Brazil, +55 19 980901202
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Maria Oliveira, Rua das Flores 45, Brazil, +55 11 991234567
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Carlos Pereira, Av. Brasil 300, Brazil, +55 21 998765432
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Ana Souza, Rua Rio Branco 120, Brazil, +55 31 987654321
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Paulo Santos, Av. Independência 500, Brazil, +55 41 996543210
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Fernanda Lima, Rua das Acácias 78, Brazil, +55 51 995432109
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Ricardo Gomes, Av. Paulista 1500, Brazil, +55 61 994321098
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Juliana Costa, Rua XV de Novembro 200, Brazil, +55 71 993210987
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Marcos Almeida, Av. Getúlio Vargas 320, Brazil, +55 81 992109876
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Patrícia Nunes, Rua das Palmeiras 90, Brazil, +55 85 991098765
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: André Barbosa, Av. Rio de Janeiro 400, Brazil, +55 95 990987654
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Camila Rocha, Rua das Laranjeiras 56, Brazil, +55 12 989876543
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Felipe Martins, Av. Minas Gerais 700, Brazil, +55 13 988765432
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Luciana Ribeiro, Rua das Hortênsias 34, Brazil, +55 14 987654320
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Thiago Fernandes, Av. Paraná 890, Brazil, +55 15 986543219
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Beatriz Carvalho, Rua das Violetas 67, Brazil, +55 16 985432198
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Gustavo Azevedo, Av. Santa Catarina 210, Brazil, +55 17 984321987
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Renata Pires, Rua das Magnólias 89, Brazil, +55 18 983210976
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Eduardo Teixeira, Av. Goiás 560, Brazil, +55 19 982109865
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Sabrina Mendes, Rua das Orquídeas 23, Brazil, +55 21 981098754
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Daniel Correia, Rua das Oliveiras 45, Brazil, +55 22 980987643
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Larissa Duarte, Av. Amazonas 300, Brazil, +55 23 979876532
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Bruno Figueiredo, Rua das Bromélias 67, Brazil, +55 24 978765421
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Carolina Moraes, Av. Ceará 450, Brazil, +55 25 977654310
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Rafael Batista, Rua das Camélias 12, Brazil, +55 26 976543209
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Isabela Cunha, Av. Sergipe 670, Brazil, +55 27 975432198
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Leonardo Vieira, Rua das Rosas 34, Brazil, +55 28 974321087
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Natália Monteiro, Av. Maranhão 890, Brazil, +55 29 973210976
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: João Henrique, Rua das Tulipas 56, Brazil, +55 32 972109865
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Vanessa Lopes, Av. Piauí 120, Brazil, +55 33 971098754
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Marcelo Rezende, Rua das Amendoeiras 78, Brazil, +55 34 970987643
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:28] Provider record loaded: Tatiane Silva, Av. Rondônia 340, Brazil, +55 35 969876532
+[2026-08-10 20:52:28] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Rodrigo Castro, Rua das Pitangueiras 90, Brazil, +55 36 968765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Aline Freitas, Av. Acre 560, Brazil, +55 37 967654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Diego Moreira, Rua das Oliveiras 23, Brazil, +55 38 966543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Priscila Cardoso, Av. Tocantins 780, Brazil, +55 39 965432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Fábio Santana, Rua das Araucárias 45, Brazil, +55 41 964321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Simone Braga, Av. Roraima 900, Brazil, +55 42 963210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Hugo Lopes, Rua das Oliveiras 67, Brazil, +55 43 962109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Débora Martins, Av. Amapá 120, Brazil, +55 44 961098754
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Otávio Ramos, Rua das Palmeiras 89, Brazil, +55 45 960987643
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Elaine Torres, Av. Pará 340, Brazil, +55 46 959876532
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Pedro Cunha, Rua das Hortênsias 56, Brazil, +55 47 958765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Mônica Andrade, Av. Bahia 780, Brazil, +55 48 957654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Alexandre Souza, Rua das Orquídeas 34, Brazil, +55 49 956543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Cristina Alves, Av. Espírito Santo 120, Brazil, +55 51 955432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: João Paulo, Rua das Magnólias 78, Brazil, +55 52 954321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Gabriela Rocha, Av. Rio Grande do Sul 560, Brazil, +55 53 953210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Maurício Nogueira, Rua das Acácias 23, Brazil, +55 54 952109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Tatiana Barros, Av. Mato Grosso 780, Brazil, +55 55 951098754
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Fernando Oliveira, Rua das Laranjeiras 45, Brazil, +55 56 950987643
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Cláudia Mendes, Av. Pernambuco 300, Brazil, +55 57 949876532
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Vinícius Costa, Rua das Violetas 67, Brazil, +55 58 948765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Letícia Azevedo, Av. Alagoas 450, Brazil, +55 59 947654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Rogério Pires, Rua das Camélias 12, Brazil, +55 61 946543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Amanda Teixeira, Av. Paraíba 670, Brazil, +55 62 945432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Marcela Duarte, Rua das Rosas 34, Brazil, +55 63 944321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Igor Batista, Av. Sergipe 890, Brazil, +55 64 943210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Helena Moraes, Rua das Tulipas 56, Brazil, +55 65 942109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Samuel Rezende, Av. Maranhão 120, Brazil, +55 66 941098754
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Paula Monteiro, Rua das Amendoeiras 78, Brazil, +55 67 940987643
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Douglas Vieira, Av. Piauí 340, Brazil, +55 68 939876532
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Carla Henrique, Rua das Pitangueiras 90, Brazil, +55 69 938765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Bruna Lopes, Av. Rondônia 560, Brazil, +55 71 937654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Felipe Castro, Rua das Oliveiras 23, Brazil, +55 72 936543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Mariana Freitas, Av. Acre 780, Brazil, +55 73 935432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Lucas Moreira, Rua das Araucárias 45, Brazil, +55 74 934321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Isabel Cardoso, Av. Tocantins 900, Brazil, +55 75 933210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Renato Santana, Rua das Oliveiras 67, Brazil, +55 76 932109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Viviane Braga, Av. Roraima 120, Brazil, +55 77 931098754
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Caio Ramos, Rua das Palmeiras 89, Brazil, +55 78 930987643
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Larissa Torres, Av. Pará 340, Brazil, +55 79 929876532
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Mateus Cunha, Rua das Hortênsias 56, Brazil, +55 81 928765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Juliana Andrade, Av. Bahia 780, Brazil, +55 82 927654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Gabriel Souza, Rua das Orquídeas 34, Brazil, +55 83 926543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Patrícia Alves, Av. Espírito Santo 120, Brazil, +55 84 925432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Henrique Paulo, Rua das Magnólias 78, Brazil, +55 85 924321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Sofia Rocha, Av. Rio Grande do Sul 560, Brazil, +55 86 923210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Daniel Nogueira, Rua das Acácias 23, Brazil, +55 87 922109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Carolina Barros, Av. Mato Grosso 780, Brazil, +55 88 921098754
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Marcelo Oliveira, Rua das Laranjeiras 45, Brazil, +55 89 920987643
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Tatiane Mendes, Av. Pernambuco 300, Brazil, +55 91 919876532
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Rodrigo Costa, Rua das Violetas 67, Brazil, +55 92 918765421
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Aline Azevedo, Av. Alagoas 450, Brazil, +55 93 917654310
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: João Pires, Rua das Camélias 12, Brazil, +55 94 916543209
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Camila Teixeira, Av. Paraíba 670, Brazil, +55 95 915432198
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Eduarda Duarte, Rua das Rosas 34, Brazil, +55 96 914321087
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Bruno Batista, Av. Sergipe 890, Brazil, +55 97 913210976
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Natália Moraes, Rua das Tulipas 56, Brazil, +55 98 912109865
+[2026-08-10 20:52:29] Loading providers record into database
+[2026-08-10 20:52:29] Provider record loaded: Leonardo Rezende, Av. Maranhão 120, Brazil, +55 99 911098754
+[2026-08-10 20:52:29] Loading provider records completed

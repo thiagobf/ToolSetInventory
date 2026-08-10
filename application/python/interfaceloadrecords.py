@@ -78,13 +78,44 @@ class LoadRecords():
         return code
 
     def loadToolsInDB(self, brand, code, name, description, price):
+        _fctname = "loadToolsInDB"
+        self.Log(_fctname, "Loading tool record into database")
         conn = sqlite3.connect(DB_NAME)
         c = conn.cursor()
         c.execute("INSERT INTO Tools (brand, code, name, description, price) VALUES (?, ?, ?, ?, ?)", (brand, code, name, description, price))
         conn.commit()
         conn.close()
+        self.Log(_fctname, f"Tool record loaded: {brand}, {code}, {name}, {description}, {price}") 
 
-    def LoadFile(self):
+    def loadProvidersInDB(self, name, address, country, phone):
+        _fctname = "loadProvidersInDB"
+        self.Log(_fctname, "Loading providers record into database")
+        conn = sqlite3.connect(DB_NAME)
+        c = conn.cursor()
+        c.execute("INSERT INTO Providers (name, address, country, phone) VALUES (?, ?, ?, ?)", (name, address, country, phone))
+        conn.commit()
+        conn.close()
+        self.Log(_fctname, f"Provider record loaded: {name}, {address}, {country}, {phone}")
+
+    def loadBorrowersInDB(self, name, email, phone):
+        _fctname = "loadBorrowersInDB"
+        self.Log(_fctname, "Loading borrowers record into database")
+        conn = sqlite3.connect(DB_NAME)
+        c = conn.cursor()
+        c.execute("INSERT INTO Borrowers (name, email, phone) VALUES (?, ?, ?)", (name, email, phone))
+        conn.commit()
+        conn.close()
+
+    def Log(self, _fctname, message):
+        timestamp = get_timestamp()
+        log_message = f"[{timestamp}] {message}"
+        print(log_message)
+        with open("application/python/logs/loadrecords.log", "a") as log_file:
+            log_file.write(log_message + "\n")
+
+    def LoadToolFile(self):
+        _fctname = "LoadToolFile"
+        self.Log(_fctname, "Loading records from file")
         RecordsList = []
         Record = []
         print(f"[{get_timestamp()}] <<Loading records from file>>")
@@ -100,7 +131,26 @@ class LoadRecords():
                 price = float(Record[3].replace(",","."))
                 ToolCode = self.generate_tool_code(Brand, Name)
                 self.loadToolsInDB(Brand, ToolCode, Name, Description, price)
+        self.Log(_fctname, "Loading records completed")
 
+    def LoadProviderFile(self):
+        _fctname = "LoadProviderFile"
+        self.Log(_fctname, "Loading provider records from file")
+        RecordsList = []
+        Record = []
+        print(f"[{get_timestamp()}] <<Loading provider records from file>>")
+        with open(".\\database\\rawdata\\providers.csv", "r",encoding='utf-8') as file:
+            for line in file:
+                RecordsList.append(line.strip())
+                
+            for Record in RecordsList:
+                Record = Record.split(";")
+                Name = Record[0]
+                Address = Record[1]
+                Country = Record[2]
+                Phone = Record[3]
+                self.loadProvidersInDB(Name, Address, Country, Phone)
+        self.Log(_fctname, "Loading provider records completed")
 
 
 
@@ -110,7 +160,8 @@ if __name__ == "__main__":
     print(f"[{get_timestamp()}] Instantiating LoadRecords class")
     LoadRecord = LoadRecords()
     print(f"[{get_timestamp()}] Loading records from file")
-    LoadRecord.LoadFile()
+    LoadRecord.LoadToolFile()
+    LoadRecord.LoadProviderFile()
     print("*******************************")
     print(f"[{get_timestamp()}] Loading records completed")
     print(f"[{get_timestamp()}] End of Loading Records")

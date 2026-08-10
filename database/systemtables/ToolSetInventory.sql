@@ -1,8 +1,8 @@
 drop table ToolSetInventory;
-drop table Provider;
+drop table Providers;
 drop table Tools;
-drop table Borrower;
-drop table Loan;
+drop table Borrowers;
+drop table Loans;
 
 CREATE TABLE "Tools" (
   "IdTool" Integer PRIMARY KEY AutoIncrement,
@@ -14,7 +14,7 @@ CREATE TABLE "Tools" (
   "CreationDate" timestamp DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE TABLE "Provider" (
+CREATE TABLE "Providers" (
   "IdProvider" Integer PRIMARY KEY AutoIncrement,
   "Name" char[50],
   "Code" char[10],
@@ -36,7 +36,7 @@ CREATE TABLE "ToolSetInventory" (
 );
 
 
-CREATE TABLE "Borrower" (
+CREATE TABLE "Borrowers" (
   "IdBorrower" integer PRIMARY KEY AutoIncrement,
   "Name" char[50],
   "Code" char[10],
@@ -46,7 +46,7 @@ CREATE TABLE "Borrower" (
   "CreationDate" timestamp DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE TABLE "Loan" (
+CREATE TABLE "Loans" (
   "IdLoan" integer PRIMARY KEY AutoIncrement,
   "IdInventory" integer,
   "IdBorrower" integer,
