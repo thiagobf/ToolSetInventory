@@ -31,7 +31,7 @@ CREATE TABLE "ToolSetInventory" (
   "Quantity" Integer DEFAULT '0',
   "Price" Real DEFAULT '0',
   "CreationDate" timestamp DEFAULT CURRENT_TIMESTAMP,
-  FOREIGN KEY(IdProvider) REFERENCES Provider(IdProvider) ,
+  FOREIGN KEY(IdProvider) REFERENCES Providers(IdProvider) ,
   FOREIGN KEY(IdTool) REFERENCES Tools(IdTool)
 );
 
