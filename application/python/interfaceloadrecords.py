@@ -2,7 +2,7 @@ import sqlite3
 from datetime import datetime
 from enum import Enum
 
-DB_NAME = r".\database\sqlitedb\toolsetinventory.db"
+DB_NAME = r"./database/sqlitedb/toolsetinventory.db"
 
 
 def get_timestamp():
@@ -110,7 +110,7 @@ class LoadRecords():
         timestamp = get_timestamp()
         log_message = f"[{timestamp}] {message}"
         print(log_message)
-        with open("application/python/logs/loadrecords.log", "a") as log_file:
+        with open("./application/python/logs/loadrecords.log", "a") as log_file:
             log_file.write(log_message + "\n")
 
     def LoadToolFile(self):
@@ -119,12 +119,13 @@ class LoadRecords():
         RecordsList = []
         Record = []
         print(f"[{get_timestamp()}] <<Loading records from file>>")
-        with open(".\\database\\rawdata\\tools.csv", "r",encoding='utf-8') as file:
+        with open("./database/rawdata/tools.csv", "r",encoding='utf-8') as file:
             for line in file:
                 RecordsList.append(line.strip())
                 
             for Record in RecordsList:
                 Record = Record.split(";")
+                print(f"[{get_timestamp()}] <<Loading record: {Record}>>")
                 Brand = Record[0].upper()
                 Name = Record[1]
                 Description = Record[2]
@@ -139,10 +140,7 @@ class LoadRecords():
         RecordsList = []
         Record = []
         print(f"[{get_timestamp()}] <<Loading provider records from file>>")
-        with open(".\\database\\rawdata\\providers.csv", "r",encoding='utf-8') as file:
-            for line in file:
-                RecordsList.append(line.strip())
-                
+        with open("./database/rawdata/providers.csv", "r",encoding='utf-8') as file:
             for Record in RecordsList:
                 Record = Record.split(";")
                 Name = Record[0]
