@@ -1,5 +1,6 @@
 For FastAPI, I recommend a lightweight MVC structure:
-
+mermaid 
+graph TD
 ToolsInquiryAPI/
 ├── main.py                 # Application setup
 ├── controllers/
