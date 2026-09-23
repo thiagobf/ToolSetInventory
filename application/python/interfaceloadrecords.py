@@ -1,7 +1,9 @@
 import sqlite3
 from datetime import datetime
 from enum import Enum
+from logs.logmanager import LogManager
 
+log_manager = LogManager()
 DB_NAME = r"./database/sqlitedb/toolsetinventory.db"
 
 
@@ -107,11 +109,7 @@ class LoadRecords():
         conn.close()
 
     def Log(self, _fctname, message):
-        timestamp = get_timestamp()
-        log_message = f"[{timestamp}] {message}"
-        print(log_message)
-        with open("./application/python/logs/loadrecords.log", "a") as log_file:
-            log_file.write(log_message + "\n")
+        log_manager.Log(_fctname, "interfaceloadrecords.log", message)
 
     def LoadToolFile(self):
         _fctname = "LoadToolFile"
