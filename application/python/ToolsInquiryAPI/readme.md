@@ -1,6 +1,6 @@
 For FastAPI, I recommend a lightweight MVC structure:
-mermaid 
-graph TD
+  ```mermaid
+graph TD;
 ToolsInquiryAPI/
 ├── main.py                 # Application setup
 ├── controllers/
@@ -11,6 +11,7 @@ ToolsInquiryAPI/
 │   └── tool_repository.py  # SQLite/database queries
 └── services/
     └── tool_service.py     # Business logic
+```
 
 The request flow would be:
 
@@ -20,3 +21,4 @@ The request flow would be:
   -> Repository
   -> SQLite
   -> Controller response
+
