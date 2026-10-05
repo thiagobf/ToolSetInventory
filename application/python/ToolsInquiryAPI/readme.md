@@ -1,7 +1,7 @@
 For FastAPI, I recommend a lightweight MVC structure:
 
-
-graph TD
+```mermaid
+graph TD;
     Main[main.py<br/>Application Setup]
     
     Controller[tools_controller.py<br/>API Routes]
@@ -27,7 +27,7 @@ graph TD
     class Service logic
     class Repository data
     class Model model
-
+```
 
 The request flow would be:
 
