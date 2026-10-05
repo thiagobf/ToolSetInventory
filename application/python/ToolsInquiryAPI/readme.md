@@ -31,8 +31,7 @@ graph TD;
 
 The request flow would be:
 ```mermaid
-graph TD;
-flowchart LR
+flowchart LR;
     Request([HTTP Request]) --> Controller[Controller]
     Controller --> Service[Service]
     Service --> Repository[Repository]
