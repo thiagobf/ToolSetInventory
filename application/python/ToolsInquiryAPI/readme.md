@@ -30,10 +30,15 @@ graph TD;
 ```
 
 The request flow would be:
-
-    HTTP request
-  -> Controller
-  -> Service
-  -> Repository
-  -> SQLite
-  -> Controller response
+```mermaid
+graph TD;
+flowchart LR
+    Request([HTTP Request]) --> Controller[Controller]
+    Controller --> Service[Service]
+    Service --> Repository[Repository]
+    Repository --> SQLite[(SQLite)]
+    SQLite --> Repository
+    Repository --> Service
+    Service --> Controller
+    Controller --> Response([HTTP Response])
+```
