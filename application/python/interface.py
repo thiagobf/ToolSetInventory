@@ -1,6 +1,8 @@
 import sqlite3
 import streamlit as st
+import logs.logmanager as logmanager
 
+log_manager = logmanager.LogManager()
 DB_NAME = "items.db"
 
 def init_db():
