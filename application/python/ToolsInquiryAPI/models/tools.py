@@ -13,16 +13,14 @@ class ToolsModel:
 
     @staticmethod
     def FindToolById(id: int):
-        # Implement the logic to find a tool by its ID in the database
-        # For demonstration purposes, let's assume we have a list of tools
-        tools = [
-            ToolsModel( 1, "Hammer", "A tool for hammering nails", 10),
-            ToolsModel( 2, "Screwdriver", "A tool for driving screws", 15),
-            ToolsModel( 3, "Wrench", "A tool for tightening bolts", 5),
-        ]
+        from repositories.tool_repository import ToolRepository
 
-        for tool in tools:
-            if tool.id == id:
-                return tool
+        return ToolRepository().get_tool_by_id(id)
 
-        return None
+    @staticmethod
+    def FindToolList() -> list["ToolsModel"]:
+        from repositories.tool_repository import ToolRepository
+
+        return ToolRepository().get_tools()
+
+    

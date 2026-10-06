@@ -21,3 +21,7 @@ def get_tool(tool_id: int):
     #return tool
     print (tool_id)
     return tool
+
+@app.get("/tools")
+def get_tools():
+    return ToolsModel.FindToolList()
