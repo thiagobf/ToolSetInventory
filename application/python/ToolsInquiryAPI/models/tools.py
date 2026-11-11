@@ -5,11 +5,12 @@
 class ToolsModel:
     
 
-    def __init__(self, id: int, name: str, description: str, quantity: int):
+    def __init__(self, id: int, name: str, description: str, quantity: int, price: float):
         self.id = id
         self.name = name
         self.description = description
         self.quantity = quantity
+        self.price = price  # Initialize price to the provided value
 
     @staticmethod
     def FindToolById(id: int):
